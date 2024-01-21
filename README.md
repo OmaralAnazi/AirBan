@@ -20,4 +20,4 @@ Note: The site is designed for mobile screens.
 To view this project, clone the repository to your local machine and open the `index.html` file in a web browser.
 
 ## Demo
-[View Live Project](#)
+[View Live Project](https://beautiful-ganache-47e638.netlify.app/)
